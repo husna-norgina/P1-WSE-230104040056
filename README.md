@@ -17,7 +17,7 @@ Praktikum ini membahas **pengujian Web Service (API)** menggunakan **Postman** d
 | NIM                | 230104040056                                               |
 | Kelas              | TI23B                                                      |
 | Repo GitHub        | https://github.com/husna-norgina/P1-WSE-230104040056       |
-| Tanggal Praktikum  | 17-11-2025                                                 |
+| Tanggal Praktikum  | 15-09-2025                                                 |
 
 ---
 
