@@ -65,6 +65,7 @@ https://jsonplaceholder.typicode.com
 
 **Hasil:**  
 ![GET All Posts](evidence/1. GET All Posts.png)
+
 Menampilkan daftar posting dalam bentuk JSON array.
 Server merespons status `200 OK`.
 
@@ -78,6 +79,7 @@ Server merespons status `200 OK`.
 
 **Hasil:**  
 ![GET Post by ID](evidence/2. GET Post by ID.png)
+
 Menampilkan satu objek JSON dengan ID tertentu.
 Server merespons status `200 OK`.
 
@@ -91,6 +93,7 @@ Server merespons status `200 OK`.
 
 **Hasil:**  
 ![GET Comments by postId](evidence/3. GET Comments by postId.png)
+
 Menampilkan daftar komentar dengan `postId = 1`.
 Server merespons status `200 OK`.
 
@@ -113,6 +116,7 @@ Server merespons status `200 OK`.
 
 **Hasil:**
 ![POST Create Post](evidence/4. POST Create Post.png)
+
 Server merespons data baru dengan ID tambahan (simulasi).
 Server merespons status `201 Created`.
 
@@ -137,6 +141,7 @@ Server merespons status `201 Created`.
 
 **Hasil:**
 ![PUT Update Post](evidence/5. PUT Update Post.png)
+
 Data berhasil diperbarui (simulasi).
 Server merespons status `200 OK`.
 
@@ -150,6 +155,7 @@ Server merespons status `200 OK`.
 
 **Hasil:**
 ![DELETE Post](evidence/6. DELETE Post.png)
+
 Menghapus data berdasarkan `postId = 1`.
 Server merespons status `200 OK`.
 
@@ -160,8 +166,8 @@ Server merespons status `200 OK`.
 
 ---
 
-> Semua screenshot hasil uji endpoint dan laporan praktikum disimpan pada folder: 
-> 📂 ./evidence/
+> Semua screenshot hasil uji endpoint dan laporan praktikum disimpan pada folder:  
+> 📂 `./evidence/`
 
 ---
 
