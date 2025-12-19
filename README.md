@@ -17,7 +17,7 @@ Praktikum ini membahas **pengujian Web Service (API)** menggunakan **Postman** d
 | NIM                | 230104040056                                               |
 | Kelas              | TI23B                                                      |
 | Repo GitHub        | https://github.com/husna-norgina/P1-WSE-230104040056       |
-| Tanggal Praktikum  | 17-11-2025                                                 |
+| Tanggal Praktikum  | 15-09-2025                                                 |
 
 ---
 
@@ -64,7 +64,7 @@ https://jsonplaceholder.typicode.com
 | GET    | `/posts` | Mengambil seluruh data posting |
 
 **Hasil:**  
-![alt text](<1. GET All Posts.png>)
+![GET All Posts](evidence/1. GET All Posts.png)
 Menampilkan daftar posting dalam bentuk JSON array.
 Server merespons status `200 OK`.
 
@@ -77,7 +77,7 @@ Server merespons status `200 OK`.
 | GET    | `/posts/1` | Mengambil satu data post berdasarkan ID |
 
 **Hasil:**  
-![alt text](<2. GET Post by ID.png>)
+![GET Post by ID](evidence/2. GET Post by ID.png)
 Menampilkan satu objek JSON dengan ID tertentu.
 Server merespons status `200 OK`.
 
@@ -90,7 +90,7 @@ Server merespons status `200 OK`.
 | GET    | `/comments?postId=1` | Mengambil komentar berdasarkan ID post |
 
 **Hasil:**  
-![alt text](<3. GET Comments by postId.png>)
+![GET Comments by postId](evidence/3. GET Comments by postId.png)
 Menampilkan daftar komentar dengan `postId = 1`.
 Server merespons status `200 OK`.
 
@@ -112,7 +112,7 @@ Server merespons status `200 OK`.
 ````
 
 **Hasil:**
-![alt text](<4. POST Create Post.png>)
+![POST Create Post](evidence/4. POST Create Post.png)
 Server merespons data baru dengan ID tambahan (simulasi).
 Server merespons status `201 Created`.
 
@@ -136,7 +136,7 @@ Server merespons status `201 Created`.
 ```
 
 **Hasil:**
-![alt text](<5. PUT Update Post.png>)
+![PUT Update Post](evidence/5. PUT Update Post.png)
 Data berhasil diperbarui (simulasi).
 Server merespons status `200 OK`.
 
@@ -149,7 +149,7 @@ Server merespons status `200 OK`.
 | DELETE | `/posts/1` | Menghapus data post berdasarkan ID |
 
 **Hasil:**
-![alt text](<6. DELETE Post.png>)
+![DELETE Post](evidence/6. DELETE Post.png)
 Menghapus data berdasarkan `postId = 1`.
 Server merespons status `200 OK`.
 
@@ -160,7 +160,8 @@ Server merespons status `200 OK`.
 
 ---
 
-> Semua hasil uji Postman dan laporan praktikum 1 disimpan di folder: `./evidence/`
+> Semua screenshot hasil uji endpoint dan laporan praktikum disimpan pada folder: 
+> 📂 ./evidence/
 
 ---
 
