@@ -65,7 +65,7 @@ https://jsonplaceholder.typicode.com
 
 **Hasil:**  
 
-![GET All Posts](evidence/1. GET All Posts.png)
+![GET All Posts](evidence/1.%20GET%20All%20Posts.png)
 
 Menampilkan daftar posting dalam bentuk JSON array.
 Server merespons status `200 OK`.
@@ -80,7 +80,7 @@ Server merespons status `200 OK`.
 
 **Hasil:**  
 
-![GET Post by ID](evidence/2. GET Post by ID.png)
+![GET Post by ID](evidence/2.%20GET%20Post%20by%20ID.png)
 
 Menampilkan satu objek JSON dengan ID tertentu.
 Server merespons status `200 OK`.
@@ -95,7 +95,7 @@ Server merespons status `200 OK`.
 
 **Hasil:**  
 
-![GET Comments by postId](evidence/3. GET Comments by postId.png)
+![GET Comments by postId](evidence/3.%20GET%20Comments%20by%20postId.png)
 
 Menampilkan daftar komentar dengan `postId = 1`.
 Server merespons status `200 OK`.
@@ -119,7 +119,7 @@ Server merespons status `200 OK`.
 
 **Hasil:**
 
-![POST Create Post](evidence/4. POST Create Post.png)
+![POST Create Post](evidence/4.%20POST%20Create%20Post.png)
 
 Server merespons data baru dengan ID tambahan (simulasi).
 Server merespons status `201 Created`.
@@ -145,7 +145,7 @@ Server merespons status `201 Created`.
 
 **Hasil:**
 
-![PUT Update Post](evidence/5. PUT Update Post.png)
+![PUT Update Post](evidence/5.%20PUT%20Update%20Post.png)
 
 Data berhasil diperbarui (simulasi).
 Server merespons status `200 OK`.
@@ -160,7 +160,7 @@ Server merespons status `200 OK`.
 
 **Hasil:**
 
-![DELETE Post](evidence/6. DELETE Post.png)
+![DELETE Post](evidence/6.%20DELETE%20Post.png)
 
 Menghapus data berdasarkan `postId = 1`.
 Server merespons status `200 OK`.
