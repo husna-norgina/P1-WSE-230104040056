@@ -1,4 +1,4 @@
-# 🌐 Praktikum — Demo Testing API (Postman)
+# 🌐 Praktikum 1 — Demo Testing API (Postman)
 
 Praktikum ini membahas **pengujian Web Service (API)** menggunakan **Postman** dengan memanfaatkan **JSONPlaceholder**, yaitu API publik (dummy API) yang digunakan untuk simulasi proses komunikasi client–server. Praktikum ini mencakup pengujian metode HTTP **GET, POST, PUT, dan DELETE** serta pemahaman konsep request–response berbasis **JSON**.
 
