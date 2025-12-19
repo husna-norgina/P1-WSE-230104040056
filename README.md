@@ -64,6 +64,7 @@ https://jsonplaceholder.typicode.com
 | GET    | `/posts` | Mengambil seluruh data posting |
 
 **Hasil:**  
+
 ![GET All Posts](evidence/1. GET All Posts.png)
 
 Menampilkan daftar posting dalam bentuk JSON array.
@@ -78,6 +79,7 @@ Server merespons status `200 OK`.
 | GET    | `/posts/1` | Mengambil satu data post berdasarkan ID |
 
 **Hasil:**  
+
 ![GET Post by ID](evidence/2. GET Post by ID.png)
 
 Menampilkan satu objek JSON dengan ID tertentu.
@@ -92,6 +94,7 @@ Server merespons status `200 OK`.
 | GET    | `/comments?postId=1` | Mengambil komentar berdasarkan ID post |
 
 **Hasil:**  
+
 ![GET Comments by postId](evidence/3. GET Comments by postId.png)
 
 Menampilkan daftar komentar dengan `postId = 1`.
@@ -115,6 +118,7 @@ Server merespons status `200 OK`.
 ````
 
 **Hasil:**
+
 ![POST Create Post](evidence/4. POST Create Post.png)
 
 Server merespons data baru dengan ID tambahan (simulasi).
@@ -140,6 +144,7 @@ Server merespons status `201 Created`.
 ```
 
 **Hasil:**
+
 ![PUT Update Post](evidence/5. PUT Update Post.png)
 
 Data berhasil diperbarui (simulasi).
@@ -154,6 +159,7 @@ Server merespons status `200 OK`.
 | DELETE | `/posts/1` | Menghapus data post berdasarkan ID |
 
 **Hasil:**
+
 ![DELETE Post](evidence/6. DELETE Post.png)
 
 Menghapus data berdasarkan `postId = 1`.
@@ -162,6 +168,7 @@ Server merespons status `200 OK`.
 ---
 
 ### 📄 7. Laporan Praktikum 1
+
 [230104040056_Husna Norgina_P1](<evidence/230104040056_Husna Norgina_P1.pdf>)
 
 ---
